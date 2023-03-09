@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "wow",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "React",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "Pankaj",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Thathagat Bhai",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "Aajad Bhai",
+      "status": true,
+      "id": 6
+    }
+  ]
+}
